@@ -4,8 +4,7 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![](![image](https://github.com/user-attachments/assets/379a731c-0ec8-4b0c-8788-5bc8e2cdae3d)
-)
-![](![image](https://github.com/user-attachments/assets/379a731c-0ec8-4b0c-8788-5bc8e2cdae3d)
-)
+![](link)
 
+
+![kuromi-icegif-1](https://github.com/user-attachments/assets/69b7fe01-b130-46f7-a99d-0dadaacc0ca6)

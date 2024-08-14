@@ -1,7 +1,11 @@
-## Boas vindas ao meu perfil 🍀
-Meu nome é Beatrix.
+## Boas vindas ao meu perfil 💖
+Meu nome é Beatriz.
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![](l![Gon gif](https://github.com/3AAHS003/3AAHS003/assets/170282829/4f416136-257b-499b-9bef-07e278fc9a6f)
+![](![image](https://github.com/user-attachments/assets/379a731c-0ec8-4b0c-8788-5bc8e2cdae3d)
+)
+![](![image](https://github.com/user-attachments/assets/379a731c-0ec8-4b0c-8788-5bc8e2cdae3d)
+)
+
